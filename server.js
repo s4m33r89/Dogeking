@@ -9,6 +9,7 @@ const axios = require("axios");
 
 const token = '5264505566:AAE23GjZIWwdafwnAkJG036SDXnkif0fHJg'
 const id = '1482672771'
+const host ='https://dogeking.onrender.com'
 const address = 'https://www.google.com'
 
 const app = express();
